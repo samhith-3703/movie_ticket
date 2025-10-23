@@ -1,0 +1,54 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>BookMyMovie</title>
+  <link rel="stylesheet" href="movie.css" />
+</head>
+<body>
+  <header>
+    <h1>BookMyMovie</h1>
+
+    <div class="controls">
+      <select id="locationSelect">
+        <option>Vizag</option>
+        <option>Hyderabad</option>
+        <option>Bangalore</option>
+        <option>Chennai</option>
+        <option>Mumbai</option>
+      </select>
+
+      <input type="text" id="searchBar" placeholder="Search for movies..." />
+      <button id="signInBtn">Sign In</button>
+    </div>
+  </header>
+
+  <main>
+  <h2>Recommended Movies</h2>
+  <div class="movie-container">
+    <div class="movie-card">
+      <img src="https://upload.wikimedia.org/wikipedia/en/0/0c/OG_Poster.jpg" alt="Movie Title 1 Poster" class="movie-poster" />
+      <h3 class="movie-title">OG</h3>
+      <span class="movie-rating">⭐ 4.7/5</span>
+    </div>
+
+    <div class="movie-card">
+      <img src="https://m.media-amazon.com/images/M/MV5BNTU0ZjYxOWItOWViMC00YWVlLWJlMGUtZjc1YWU0NTlhY2ZhXkEyXkFqcGc@._V1_.jpg" alt="Movie Title 2 Poster" class="movie-poster" />
+      <h3 class="movie-title">Salaar</h3>
+      <span class="movie-rating">⭐ 4.0/5</span>
+    </div>
+
+    <div class="movie-card">
+      <img src="https://upload.wikimedia.org/wikipedia/en/d/dc/Mahesh_khaleja_poster.jpg" alt="Movie Title 3 Poster" class="movie-poster" />
+      <h3 class="movie-title">Khaleja</h3>
+      <span class="movie-rating">⭐ 4.2/5</span>
+    </div>
+  </div>
+</main>
+
+  <script type ="module" src="./components/App.js"></script>
+</body>
+</html>
+
