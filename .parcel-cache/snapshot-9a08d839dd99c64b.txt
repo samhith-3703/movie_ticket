@@ -1,4 +1,4 @@
-3611
+3621
 87C:\Users\user\Downloads\movie_ticket-main\node_modules\@parcel\transformer-json\LICENSE134056142320470141 0
 72C:\Users\user\Downloads\movie_ticket-main\node_modules\commander\typings134056142329104453 1
 61C:\Users\user\Downloads\movie_ticket-main\node_modules\base-x134056142304172593 1
@@ -14,7 +14,7 @@
 97C:\Users\user\Downloads\movie_ticket-main\node_modules\@swc\helpers\cjs\_ts_dispose_resources.cjs134056142307265044 0
 85C:\Users\user\Downloads\movie_ticket-main\node_modules\@swc\helpers\src\_to_array.mjs134056142316255685 0
 90C:\Users\user\Downloads\movie_ticket-main\node_modules\caniuse-lite\data\regions\alt-af.js134056142296107408 0
-54C:\Users\user\Downloads\movie_ticket-main\package.json134056181022822001 0
+54C:\Users\user\Downloads\movie_ticket-main\package.json134056946399945827 0
 81C:\Users\user\Downloads\movie_ticket-main\node_modules\node-addon-api\except.gypi134056142295467330 0
 61C:\Users\user\Downloads\movie_ticket-main\node_modules\@lezer134056142288133452 1
 77C:\Users\user\Downloads\movie_ticket-main\node_modules\semver\functions\lt.js134056142304556424 0
@@ -30,6 +30,8 @@
 90C:\Users\user\Downloads\movie_ticket-main\node_modules\@parcel\core\test\fixtures\main-mjs134056142341799979 1
 97C:\Users\user\Downloads\movie_ticket-main\node_modules\caniuse-lite\data\features\documenthead.js134056142312684444 0
 52C:\Users\user\Downloads\movie_ticket-main\components134056157828818230 1
+105C:\Users\user\Downloads\movie_ticket-main\node_modules\caniuse-lite\data\features\intersectionobserver.js134056142316266638 0
+46C:\Users\user\Downloads\movie_ticket-main\dist134056946405385298 1
 77C:\Users\user\Downloads\movie_ticket-main\node_modules\safe-buffer\index.d.ts134056142294716496 0
 96C:\Users\user\Downloads\movie_ticket-main\node_modules\@parcel\namer-default\src\DefaultNamer.js134056142328733610 0
 68C:\Users\user\Downloads\movie_ticket-main\node_modules\react-refresh134056142298570679 1
@@ -37,7 +39,7 @@
 107C:\Users\user\Downloads\movie_ticket-main\node_modules\lmdb\node_modules\node-addon-api\tools\conversion.js134056142337297719 0
 82C:\Users\user\Downloads\movie_ticket-main\node_modules\to-regex-range\package.json134056142293466856 0
 107C:\Users\user\Downloads\movie_ticket-main\node_modules\caniuse-lite\data\features\css-media-range-syntax.js134056142310860170 0
-52C:\Users\user\Downloads\movie_ticket-main\movie.html134056178166474304 0
+52C:\Users\user\Downloads\movie_ticket-main\movie.html134056940597269169 0
 89C:\Users\user\Downloads\movie_ticket-main\node_modules\msgpackr-extract\node_modules\.bin134056142415611564 1
 83C:\Users\user\Downloads\movie_ticket-main\node_modules\@parcel\cache\src\FSCache.js134056142308563220 0
 89C:\Users\user\Downloads\movie_ticket-main\node_modules\@parcel\feature-flags\lib\index.js134056142333909653 0
@@ -46,7 +48,7 @@
 102C:\Users\user\Downloads\movie_ticket-main\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\lmdb.h134056142316739366 0
 77C:\Users\user\Downloads\movie_ticket-main\node_modules\msgpackr\dist\index.js134056142303504047 0
 87C:\Users\user\Downloads\movie_ticket-main\node_modules\@parcel\source-map\dist\utils.js134056142307033077 0
-51C:\Users\user\Downloads\movie_ticket-main\movie.css134056119801128271 0
+51C:\Users\user\Downloads\movie_ticket-main\movie.css134056919537559511 0
 66C:\Users\user\Downloads\movie_ticket-main\node_modules\.bin\parcel134056142415530370 0
 106C:\Users\user\Downloads\movie_ticket-main\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_copy.1134056142303762681 0
 113C:\Users\user\Downloads\movie_ticket-main\node_modules\@parcel\runtime-service-worker\src\ServiceWorkerRuntime.js134056142325532562 0
@@ -116,6 +118,7 @@
 97C:\Users\user\Downloads\movie_ticket-main\node_modules\@parcel\utils\test\input\config\empty.toml134056142343705059 0
 62C:\Users\user\Downloads\movie_ticket-main\node_modules\@parcel134056142434315644 1
 59C:\Users\user\Downloads\movie_ticket-main\node_modules\@swc134056142434315644 1
+68C:\Users\user\Downloads\movie_ticket-main\dist\movie.cacebe6e.js.map134056946405322641 0
 80C:\Users\user\Downloads\movie_ticket-main\node_modules\semver\functions\clean.js134056142300514664 0
 62C:\Users\user\Downloads\movie_ticket-main\node_modules\globals134056142298841539 1
 66C:\Users\user\Downloads\movie_ticket-main\node_modules\ansi-styles134056142293263776 1
@@ -642,6 +645,7 @@
 78C:\Users\user\Downloads\movie_ticket-main\node_modules\supports-color\index.js134056142292958542 0
 89C:\Users\user\Downloads\movie_ticket-main\node_modules\@parcel\core\src\resolveOptions.js134056142340008747 0
 77C:\Users\user\Downloads\movie_ticket-main\node_modules\supports-color\license134056142292598854 0
+57C:\Users\user\Downloads\movie_ticket-main\dist\movie.html134056946405090148 0
 123C:\Users\user\Downloads\movie_ticket-main\node_modules\@parcel\core\test\fixtures\targets-default-distdir-none\package.json134056142341880885 0
 109C:\Users\user\Downloads\movie_ticket-main\node_modules\@parcel\core\test\fixtures\targets-default-distdir-two134056142341918117 1
 87C:\Users\user\Downloads\movie_ticket-main\node_modules\@swc\helpers\src\_instanceof.mjs134056142315751368 0
@@ -806,11 +810,11 @@
 78C:\Users\user\Downloads\movie_ticket-main\node_modules\semver\classes\index.js134056142303875163 0
 73C:\Users\user\Downloads\movie_ticket-main\node_modules\react-dom\index.js134056126026279333 0
 78C:\Users\user\Downloads\movie_ticket-main\node_modules\chrome-trace-event\dist134056142306003873 1
-77C:\Users\user\Downloads\movie_ticket-main\node_modules\dotenv-expand\tea.yaml134056142303875163 0
-89C:\Users\user\Downloads\movie_ticket-main\node_modules\@swc\helpers\src\_create_class.mjs134056142315374493 0
 78C:\Users\user\Downloads\movie_ticket-main\node_modules\semver\classes\range.js134056142305864597 0
 86C:\Users\user\Downloads\movie_ticket-main\node_modules\caniuse-lite\data\regions\YT.js134056142329331074 0
 107C:\Users\user\Downloads\movie_ticket-main\node_modules\caniuse-lite\data\features\indeterminate-checkbox.js134056142315722075 0
+89C:\Users\user\Downloads\movie_ticket-main\node_modules\@swc\helpers\src\_create_class.mjs134056142315374493 0
+77C:\Users\user\Downloads\movie_ticket-main\node_modules\dotenv-expand\tea.yaml134056142303875163 0
 72C:\Users\user\Downloads\movie_ticket-main\node_modules\react-refresh\cjs134056142297844221 1
 98C:\Users\user\Downloads\movie_ticket-main\node_modules\caniuse-lite\data\features\mediarecorder.js134056142318633822 0
 93C:\Users\user\Downloads\movie_ticket-main\node_modules\@parcel\packager-js\src\DevPackager.js134056142326052243 0
@@ -1238,9 +1242,6 @@
 73C:\Users\user\Downloads\movie_ticket-main\node_modules\dotenv\SECURITY.md134056142316762833 0
 94C:\Users\user\Downloads\movie_ticket-main\node_modules\caniuse-lite\data\features\shadowdom.js134056142323927811 0
 114C:\Users\user\Downloads\movie_ticket-main\node_modules\msgpackr-extract\node_modules\detect-libc\lib\filesystem.js134056142336539382 0
-71C:\Users\user\Downloads\movie_ticket-main\node_modules\msgpackr\LICENSE134056142300136289 0
-98C:\Users\user\Downloads\movie_ticket-main\node_modules\lmdb\node_modules\node-addon-api\napi-inl.h134056142337034358 0
-81C:\Users\user\Downloads\movie_ticket-main\node_modules\msgpackr\dist\index.min.js134056142304060648 0
 96C:\Users\user\Downloads\movie_ticket-main\node_modules\@swc\helpers\src\_object_spread_props.mjs134056142316014241 0
 92C:\Users\user\Downloads\movie_ticket-main\node_modules\caniuse-lite\data\features\datauri.js134056142312244419 0
 80C:\Users\user\Downloads\movie_ticket-main\node_modules\browserslist\package.json134056142304060648 0
@@ -1263,6 +1264,9 @@
 104C:\Users\user\Downloads\movie_ticket-main\node_modules\@swc\helpers\_\_class_check_private_static_access134056142311581318 1
 94C:\Users\user\Downloads\movie_ticket-main\node_modules\@parcel\utils\test\input\config\.testrc134056142331437740 0
 72C:\Users\user\Downloads\movie_ticket-main\node_modules\msgpackr\index.js134056142303762681 0
+71C:\Users\user\Downloads\movie_ticket-main\node_modules\msgpackr\LICENSE134056142300136289 0
+98C:\Users\user\Downloads\movie_ticket-main\node_modules\lmdb\node_modules\node-addon-api\napi-inl.h134056142337034358 0
+81C:\Users\user\Downloads\movie_ticket-main\node_modules\msgpackr\dist\index.min.js134056142304060648 0
 77C:\Users\user\Downloads\movie_ticket-main\node_modules\msgpackr\node-index.js134056142304318474 0
 109C:\Users\user\Downloads\movie_ticket-main\node_modules\caniuse-lite\data\features\mediacapture-fromelement.js134056142318601982 0
 85C:\Users\user\Downloads\movie_ticket-main\node_modules\@parcel\core\lib\Dependency.js134056142337125679 0
@@ -1316,7 +1320,6 @@
 88C:\Users\user\Downloads\movie_ticket-main\node_modules\@parcel\core\test\fixtures\parcel134056142341938780 1
 87C:\Users\user\Downloads\movie_ticket-main\node_modules\msgpackr\dist\unpack-no-eval.cjs134056142302137139 0
 77C:\Users\user\Downloads\movie_ticket-main\node_modules\ansi-styles\index.d.ts134056142293337583 0
-86C:\Users\user\Downloads\movie_ticket-main\node_modules\caniuse-lite\data\regions\IT.js134056142316326895 0
 63C:\Users\user\Downloads\movie_ticket-main\node_modules\lmdb\bin134056142317423502 1
 66C:\Users\user\Downloads\movie_ticket-main\node_modules\.bin\semver134056142415530370 0
 70C:\Users\user\Downloads\movie_ticket-main\node_modules\lmdb\caching.js134056142317400805 0
@@ -1845,6 +1848,7 @@
 86C:\Users\user\Downloads\movie_ticket-main\node_modules\caniuse-lite\data\regions\IQ.js134056142316326895 0
 86C:\Users\user\Downloads\movie_ticket-main\node_modules\caniuse-lite\data\regions\IR.js134056142316326895 0
 86C:\Users\user\Downloads\movie_ticket-main\node_modules\caniuse-lite\data\regions\IS.js134056142316326895 0
+86C:\Users\user\Downloads\movie_ticket-main\node_modules\caniuse-lite\data\regions\IT.js134056142316326895 0
 86C:\Users\user\Downloads\movie_ticket-main\node_modules\caniuse-lite\data\regions\JE.js134056142316413248 0
 96C:\Users\user\Downloads\movie_ticket-main\node_modules\@swc\helpers\src\_to_consumable_array.mjs134056142316276651 0
 86C:\Users\user\Downloads\movie_ticket-main\node_modules\caniuse-lite\data\regions\JM.js134056142316462069 0
@@ -2305,7 +2309,6 @@
 103C:\Users\user\Downloads\movie_ticket-main\node_modules\caniuse-lite\data\features\insertadjacenthtml.js134056142316179417 0
 95C:\Users\user\Downloads\movie_ticket-main\node_modules\@swc\helpers\_\_ts_metadata\package.json134056142313667098 0
 108C:\Users\user\Downloads\movie_ticket-main\node_modules\caniuse-lite\data\features\intersectionobserver-v2.js134056142316233070 0
-105C:\Users\user\Downloads\movie_ticket-main\node_modules\caniuse-lite\data\features\intersectionobserver.js134056142316266638 0
 79C:\Users\user\Downloads\movie_ticket-main\node_modules\@swc\helpers\_\_ts_param134056142313687400 1
 93C:\Users\user\Downloads\movie_ticket-main\node_modules\caniuse-lite\data\features\jpeg2000.js134056142316585922 0
 94C:\Users\user\Downloads\movie_ticket-main\node_modules\@parcel\transformer-babel\src\babel7.js134056142323001745 0
@@ -2589,6 +2592,7 @@
 76C:\Users\user\Downloads\movie_ticket-main\node_modules\@swc\helpers\_\_using134056142313881022 1
 91C:\Users\user\Downloads\movie_ticket-main\node_modules\@swc\helpers\_\_wrap_async_generator134056142313903302 1
 88C:\Users\user\Downloads\movie_ticket-main\node_modules\@swc\helpers\_\_wrap_native_super134056142313920662 1
+64C:\Users\user\Downloads\movie_ticket-main\dist\movie.cacebe6e.js134056946405090148 0
 104C:\Users\user\Downloads\movie_ticket-main\node_modules\@swc\helpers\_\_wrap_async_generator\package.json134056142313908293 0
 129C:\Users\user\Downloads\movie_ticket-main\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.darwin-arm64.node134056142310337016 0
 76C:\Users\user\Downloads\movie_ticket-main\node_modules\@parcel\markdown-ansi134056142297632638 1
@@ -3609,4 +3613,10 @@
 70C:\Users\user\Downloads\movie_ticket-main\node_modules\.bin\parcel.ps1134056142415530370 0
 86C:\Users\user\Downloads\movie_ticket-main\node_modules\.bin\update-browserslist-db.cmd134056142415530370 0
 86C:\Users\user\Downloads\movie_ticket-main\node_modules\.bin\update-browserslist-db.ps1134056142415530370 0
+65C:\Users\user\Downloads\movie_ticket-main\dist\movie.3b841883.css134056946404906259 0
+69C:\Users\user\Downloads\movie_ticket-main\dist\movie.3b841883.css.map134056946405027050 0
+64C:\Users\user\Downloads\movie_ticket-main\dist\movie.bfa9624b.js134056930500244730 0
+68C:\Users\user\Downloads\movie_ticket-main\dist\movie.bfa9624b.js.map134056930500598818 0
+65C:\Users\user\Downloads\movie_ticket-main\dist\movie.daf07a7a.css134056930500230634 0
+69C:\Users\user\Downloads\movie_ticket-main\dist\movie.daf07a7a.css.map134056930500598818 0
 62C:\Users\user\Downloads\movie_ticket-main\components\Header.js134056120063785352 0
